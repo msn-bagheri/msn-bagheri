@@ -12,4 +12,4 @@
 
 
 
-![Snake animation](https://github.com/msn-bagheri/msn-bagheri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/msn-bagheri/blob/output/github-contribution-grid-snake.svg)
