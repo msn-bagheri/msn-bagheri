@@ -11,6 +11,5 @@
 - 😄 Pronouns: He/Him
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="preethamb97" />
 
 ![Snake animation](https://github.com/msn-bagheri/msn-bagheri/blob/output/github-contribution-grid-snake.svg)
