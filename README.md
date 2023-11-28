@@ -5,7 +5,5 @@
 </h2>
 
 
-
-- 🔭 I’m currently working on Python, Django
-- 🌱 I’m currently learning gRPC, microservice 
+- 🌱 I’m currently learning Go, Echo 
 - 😄 Pronouns: He/Him
