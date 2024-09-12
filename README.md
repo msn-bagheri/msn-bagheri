@@ -6,5 +6,5 @@
 
 
 
-- 🌱 I’m currently learning Go, Echo 
+- 🌱 I’m currently learning Go, Echo and MicroService Archtecture
 - 😄 Pronouns: He/Him
