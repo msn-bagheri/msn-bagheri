@@ -6,4 +6,4 @@
 
 
 
-- 🌱 I’m currently learning Go, Echo and MicroService Archtecture
+- 🌱 I’m currently learning Go, Echo and MicroService Architecture
