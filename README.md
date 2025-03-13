@@ -6,4 +6,4 @@
 
 
 
-- 🌱 Trying to be a Go hacker ;)
+-  Trying to be a Go hacker ;)
