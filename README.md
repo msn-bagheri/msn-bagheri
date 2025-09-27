@@ -29,15 +29,6 @@ I love building scalable systems, designing clean architectures, and optimizing 
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msn-bagheri&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msn-bagheri&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🌍 Languages  
 - **Persian** – Native  
 - **English** – Professional Work Proficiency  
