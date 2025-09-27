@@ -1,9 +1,11 @@
 # Hi there, I'm Mohsen Bagheri 👋  
 
-🚀 **Backend Developer | Golang & Python Enthusiast | Scalable Systems Builder**
+✨ *I believe code is the poetry of logic — it should be elegant, expressive, and powerful.*  
 
-I’m a backend developer with **4+ years of experience** specializing in **Golang, Python, and Django**.  
-I love building scalable systems, designing clean architectures, and optimizing performance with efficient backend solutions.
+## 🧑‍💻 Currently  
+- Exploring the depths of **Golang**, aiming to become a true **Go hacker**  
+- Experimenting with **scalable architectures**, **distributed systems**, and **crypto-related projects**  
+- Always learning, building, and refining my craft  
 
 ---
 
