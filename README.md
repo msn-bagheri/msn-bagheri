@@ -36,7 +36,6 @@ I love building scalable systems, designing clean architectures, and optimizing 
 ---
 
 ## 📫 Connect with Me  
-- **GitHub**: [github.com/msn-bagheri](https://github.com/msn-bagheri)  
 - **LinkedIn**: [linkedin.com/in/mohsenbagheri8](https://linkedin.com/in/mohsenbagheri8)  
 - **Email**: mohsenbaqeri10@gmail.com  
 
